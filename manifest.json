@@ -1,0 +1,46 @@
+{
+    "name":"Weather App",
+    "short_name": "WeatherApp",
+    "start_url" : "/public/index.html",
+    "display": "standalone",
+    "background_color": "#293251",
+    "theme_color": " #293251",
+    "orientation": "portrait-primary",
+    "icons":[
+        {
+        "src": "/public/iconss/climate-16x16.png",
+        "type": "image/png",
+        "size": "16x16"
+        },
+        {
+            "src": "/public/iconss/climate-24x24.png",
+            "type": "image/png",
+            "size": "24x24"
+        },
+        {
+            "src": "/public/iconss/climate-32x32.png",
+            "type": "image/png",
+            "size": "32x32"
+        },
+        {
+            "src": "/public/iconss/climate-64x64.png",
+            "type": "image/png",
+            "size": "64x64"
+        },
+        {
+            "src": "/public/iconss/climate-128x128.png",
+            "type": "image/png",
+            "size": "128x128"
+        },
+        {
+            "src": "/public/iconss/climate-256x256.png",
+            "type": "image/png",
+            "size": "256x256"
+        },
+        {
+            "src": "/public/iconss/climate-512x512.png",
+            "type": "image/png",
+            "size": "512x512"
+        }
+   ]
+}
